@@ -4,7 +4,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to My production Microservice"
+  message: "Welcome to My production test Microservice"
   contactDetails:
     name: "Subbu"
     email: "subbu@gmail.com"
