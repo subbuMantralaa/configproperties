@@ -4,7 +4,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to QA Microservice"
+  message: "Welcome to Quality Microservice"
   contactDetails:
     name: "Subbu"
     email: "subbu@gmail.com"
